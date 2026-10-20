@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env*
+/my-project/
+/project.ledger.json
+/project-notes.md

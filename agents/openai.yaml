@@ -1,0 +1,4 @@
+interface:
+  display_name: "WhoOwnsWhat"
+  short_description: "Shared project costs, account owners and next steps"
+  default_prompt: "Use $whoownswhat to record our project costs, check balances and keep track of who owns each account."
